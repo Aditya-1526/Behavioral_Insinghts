@@ -25,14 +25,22 @@ Chronis simulates a SaaS-style behavioral insights platform. Users can monitor K
 
 ## Screenshots
 
-> Add screenshots after running the app locally:
->
-> ```bash
-> npm run dev
-> ```
->
-> Capture views of the Dashboard, Insight Explorer, and Narrative Timeline pages.
+# Screenshots
 
+## Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard2.png)
+
+## Insight Explorer
+
+![Insights](./screenshots/insights1.png)
+![Insights](./screenshots/insights2.png)
+![Insights](./screenshots/insights3.png)
+
+## Timeline
+
+![Timeline](./screenshots/timeline.png)
 | Dashboard | Insights | Timeline |
 |-----------|----------|----------|
 | _screenshot_ | _screenshot_ | _screenshot_ |
