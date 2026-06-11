@@ -41,9 +41,7 @@ Chronis simulates a SaaS-style behavioral insights platform. Users can monitor K
 ## Timeline
 
 ![Timeline](./screenshots/timeline.png)
-| Dashboard | Insights | Timeline |
-|-----------|----------|----------|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+
 
 ## Tech Stack
 
